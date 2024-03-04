@@ -7,13 +7,7 @@ namespace ConwaysGameofLifeSimulator
 {
     public class Cell : ICell
     {
-        public bool State()
-        {
-            return true;
-        }
-        public bool Neighbor()
-        {
-            return true;
-        }
+        public bool IsAlive { get; set; }
+        public List<ICell> Neighbors { get; } = new List<ICell>();
     }
 }

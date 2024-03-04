@@ -7,6 +7,7 @@ namespace ConwaysGameofLifeSimulator
 {
     public interface IGrid
     {
-        
+        public void UpdateState();
+        public void GetCellState();
     }
 }

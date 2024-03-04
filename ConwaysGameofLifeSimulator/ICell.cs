@@ -7,6 +7,7 @@ namespace ConwaysGameofLifeSimulator
 {
     public interface ICell
     {
-        
+        public bool State();
+        public bool Neighbor();
     }
 }

@@ -1,0 +1,14 @@
+C:\Users\Predator\Desktop\myprogram\Conway-s-Game-of-Life-Simulator\ConwaysGameofLifeSimulator\bin\Debug\net8.0\ConwaysGameofLifeSimulator.exe
+C:\Users\Predator\Desktop\myprogram\Conway-s-Game-of-Life-Simulator\ConwaysGameofLifeSimulator\bin\Debug\net8.0\ConwaysGameofLifeSimulator.deps.json
+C:\Users\Predator\Desktop\myprogram\Conway-s-Game-of-Life-Simulator\ConwaysGameofLifeSimulator\bin\Debug\net8.0\ConwaysGameofLifeSimulator.runtimeconfig.json
+C:\Users\Predator\Desktop\myprogram\Conway-s-Game-of-Life-Simulator\ConwaysGameofLifeSimulator\bin\Debug\net8.0\ConwaysGameofLifeSimulator.dll
+C:\Users\Predator\Desktop\myprogram\Conway-s-Game-of-Life-Simulator\ConwaysGameofLifeSimulator\bin\Debug\net8.0\ConwaysGameofLifeSimulator.pdb
+C:\Users\Predator\Desktop\myprogram\Conway-s-Game-of-Life-Simulator\ConwaysGameofLifeSimulator\obj\Debug\net8.0\ConwaysGameofLifeSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Predator\Desktop\myprogram\Conway-s-Game-of-Life-Simulator\ConwaysGameofLifeSimulator\obj\Debug\net8.0\ConwaysGameofLifeSimulator.AssemblyInfoInputs.cache
+C:\Users\Predator\Desktop\myprogram\Conway-s-Game-of-Life-Simulator\ConwaysGameofLifeSimulator\obj\Debug\net8.0\ConwaysGameofLifeSimulator.AssemblyInfo.cs
+C:\Users\Predator\Desktop\myprogram\Conway-s-Game-of-Life-Simulator\ConwaysGameofLifeSimulator\obj\Debug\net8.0\ConwaysGameofLifeSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Predator\Desktop\myprogram\Conway-s-Game-of-Life-Simulator\ConwaysGameofLifeSimulator\obj\Debug\net8.0\ConwaysGameofLifeSimulator.dll
+C:\Users\Predator\Desktop\myprogram\Conway-s-Game-of-Life-Simulator\ConwaysGameofLifeSimulator\obj\Debug\net8.0\refint\ConwaysGameofLifeSimulator.dll
+C:\Users\Predator\Desktop\myprogram\Conway-s-Game-of-Life-Simulator\ConwaysGameofLifeSimulator\obj\Debug\net8.0\ConwaysGameofLifeSimulator.pdb
+C:\Users\Predator\Desktop\myprogram\Conway-s-Game-of-Life-Simulator\ConwaysGameofLifeSimulator\obj\Debug\net8.0\ConwaysGameofLifeSimulator.genruntimeconfig.cache
+C:\Users\Predator\Desktop\myprogram\Conway-s-Game-of-Life-Simulator\ConwaysGameofLifeSimulator\obj\Debug\net8.0\ref\ConwaysGameofLifeSimulator.dll
